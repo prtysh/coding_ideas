@@ -9,3 +9,4 @@ just some coding ideas
   c. unlimited assignments and weightage options
   d. extra- grading patterns
   e. csv download
+4. Automate instagram, facebook, youtube. (consider using regex for dates and nomenclature)
