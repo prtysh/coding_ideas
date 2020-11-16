@@ -3,7 +3,7 @@ just some coding ideas
 
 1. an application that lets watch youtube together
 2. budgeting app (apple apps are very costly)
-3. grading
+3. grading DASHBOARD
   a. data entry
   b. csv upload
   c. unlimited assignments and weightage options
