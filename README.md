@@ -11,4 +11,5 @@ just some coding ideas
     - csv download
 4. **automate instagram**, facebook, youtube upload. (consider using regex for dates and nomenclature)
 5. minimal journaling app, one sentence/three words, one photo, 3 habits, 1 gratitude, 1 regret/change
+6. script for translating youtube playlist to audiobook.
 
