@@ -12,4 +12,11 @@ just some coding ideas
 4. **automate instagram**, facebook, youtube upload. (consider using regex for dates and nomenclature)
 5. minimal journaling app, one sentence/three words, one photo, 3 habits, 1 gratitude, 1 regret/change
 6. script for translating youtube playlist to audiobook.
+7. clock app
+    - analog sounds
+    - with customised intervals
+    - (pro) custom sounds
+    - meant for workouts, meditation, etc
+    - comes from my understanding of stretching and not being able to keep track of time.
+    - we count faster during harder exercises
 
