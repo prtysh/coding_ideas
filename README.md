@@ -19,4 +19,6 @@ just some coding ideas
     - meant for workouts, meditation, etc
     - comes from my understanding of stretching and not being able to keep track of time.
     - we count faster during harder exercises
-
+8. calendar app
+    - the year, the month and the day is a line
+    - every task project has an end, a start and points where work was done.
