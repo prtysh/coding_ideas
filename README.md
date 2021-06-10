@@ -22,3 +22,6 @@ just some coding ideas
 8. calendar app
     - the year, the month and the day is a line
     - every task project has an end, a start and points where work was done.
+9. audiobook player
+    - add a randan excerpt function that tries and find an excerpt to play.
+    - probably find moments of silents between certain time frame possibilities.
