@@ -33,6 +33,8 @@ just some coding ideas
     - able to connect to system using bluetooth
     - sends MIDI msgs using Bluetooth (maybe intentionally exclude USB)
     - probably going to have latency issues (but ok for ambient/few notes stuff)
+   
+12. cpp exercise - build an app to compare casts across movies and series
     - minimal keyboard
 12. vcv counter (hour glass)
     - every trigger adds to counter
