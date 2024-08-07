@@ -35,6 +35,9 @@ just some coding ideas
     - probably going to have latency issues (but ok for ambient/few notes stuff)
    
 12. cpp exercise - build an app to compare casts across movies and series
+13. octave plugin - like a doubler for guitar. 
+    - should have an option of adding time dispersion. 
+    - time dispersion should be fuzzy so as to create harmonisation of two different players
     - minimal keyboard
 12. vcv counter (hour glass)
     - every trigger adds to counter
