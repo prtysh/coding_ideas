@@ -44,3 +44,4 @@ just some coding ideas
     - can send out triggers or gates at specific counter levels
     - add probability
     - focus around filling up of the hour class - two event outs or one (give minimal possible options to do its job)
+13. keyboard with swipe for desktop
